@@ -4,8 +4,9 @@
 
 In a pizza cafe there are two types of pizzas, regular and deluxe, and both come in their veg and non-veg variants with a base price. You can ask to add extra cheese or toppings if you want on your regular pizza. Deluxe Pizza comes with extra cheese and toppings by default. Also, if you want a takeaway you have to pay for the paper bag that comes with it. In the end you need to generate a bill for the customers.
 
-Veg pizza base price = 300
-Non-veg pizza base price = 400
+Veg pizza base price = 300  
+
+Non-veg pizza base price = 400 
 Extra Cheese Price = 80
 Extra Toppings For Veg Pizza = 70
 Extra Toppings For Non-veg Pizza = 120
