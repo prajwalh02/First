@@ -15,18 +15,19 @@ Paper bag Price = 20
 
 ## Bill Structure Example:
 
-<!-- Example 1: -->
-Base Price Of The Pizza: 300
-Extra Cheese Added: 80
-Extra Toppings Added: 70
-Paperbag Added: 20
-Total Price: 470
+### Example 1:
+Base Price Of The Pizza: 300  
+Extra Cheese Added: 80  
+Extra Toppings Added: 70  
+Paperbag Added: 20  
+Total Price: 470  
 
-<!-- Example 2: -->
-Base Price Of The Pizza: 400
-Extra Cheese Added: 80
-Extra Toppings Added: 120
-Total Price: 600
+### Example 2: 
+Base Price Of The Pizza: 400  
+Extra Cheese Added: 80  
+Extra Toppings Added: 120  
+Total Price: 600  
+
 
 ## Note:
 The customer might ask for extra cheese or toppings by invoking your method multiple times, but you have to make sure you don’t add it in the bill multiple times.
