@@ -30,6 +30,6 @@ Total Price: 600
 
 
 ## Note:
-The customer might ask for extra cheese or toppings by invoking your method multiple times, but you have to make sure you don’t add it in the bill multiple times.
-Make sure you add extra cheese before the extra toppings if a customer asks for both and it reflect the same in the billing.
+The customer might ask for extra cheese or toppings by invoking your method multiple times, but you have to make sure you don’t add it in the bill multiple times.  
+Make sure you add extra cheese before the extra toppings if a customer asks for both and it reflect the same in the billing.  
 In the billing make sure the string for bill you generate has all components in a different line. (Don’t forget to add “\n” after each line of billing)
