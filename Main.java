@@ -20,6 +20,6 @@ public class Main {
         // System.out.println(p.getBill());
         
         System.out.println("Updated");
-         
+        System.out.println("Updated 02");
     }
 }
