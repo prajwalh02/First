@@ -18,8 +18,7 @@ public class Main {
         // p.addTakeaway();
 
         // System.out.println(p.getBill());
-        
-        System.out.println("Updated");
-        System.out.println("Updated 02");
+
+       
     }
 }
